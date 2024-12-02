@@ -1,2 +1,2 @@
-# Boids_Simulation
-A Boids Simulation with Monte Carlo using Pygame
+# Multi_Agent_Simulation
+Some Multi-Agent Systems with Monte Carlo using Pygame
